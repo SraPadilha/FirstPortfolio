@@ -63,7 +63,7 @@ tinha disponível.
     title.classList.remove('hidden');
     // Chama a função de animação para '.inicios'
     activeWorld(title);
-}
+        }
 
     /* MENU FUNCIONAL */
     document.addEventListener('DOMContentLoaded', function() {
