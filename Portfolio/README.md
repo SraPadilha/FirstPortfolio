@@ -1,5 +1,6 @@
 # Vamos a parte mais explicativa...ou muita leitura e chatisse para alguns. (não julgo porque em alguns casos essa sou eu).
-
+Antes de me julgar sobre as edições de imagem as que eu fiz fo apenas utilizando o paint porque estou sem photoshop. É isto que 
+tinha disponível. 
 #MENU
 
     // Função para escrever o título na classe '.iniciop'
